@@ -3,4 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Mathilde Aguiar
+logo: /assets/img/1603714518074.jpeg
 description: I'm currently pursuing my PhD in Natural Language Processing in Paris Saclay University. My PhD topic is "Natural Language Inference for clinical trials". This page showcases my past and ongoing work related to NLP.
+show_downloads: true
