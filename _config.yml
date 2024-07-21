@@ -1,7 +1,13 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jemoji
 
 title: Mathilde Aguiar
-# logo: /assets/img/1603714518074.jpeg
-description: I'm currently pursuing my PhD in Natural Language Processing in Paris Saclay University. My PhD topic is "Natural Language Inference for clinical trials". This page showcases my past and ongoing work related to NLP.
+logo: /assets/img/1603714518074.jpeg
+description: PhD student at Laboratoire Interdisciplinaire des Sciences du Numérique (LISN) - CNRS at Paris Saclay. **Contact:** mathilde.aguiar@lisn.fr
+extralinks: |
+    <li><a href="https://scholar.google.com/citations?hl=en&user=2QTB25sAAAAJ"><img src="assets/img/scholar.png" alt="Google Scholar"/></a></li>
+    <li><a href="https://github.com/MathildeAguiar"><img src="img/gitlab-icon-rgb.png" alt="Github"/></a></li>
+    <li><a href="https://aclanthology.org/people/m/mathilde-aguiar/"><img src="assets/img/acl.png" alt="ACL Anthology"/></a></li>
+    <li><a href="https://huggingface.co/Mathilde"><img src="assets/img/hf.png" alt="HuggingFace"/></a></li>
