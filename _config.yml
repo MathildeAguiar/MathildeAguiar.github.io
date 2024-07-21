@@ -3,7 +3,7 @@ plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jemoji
 
-title: Mathilde Aguiar
+title: "Mathilde Aguiar"
 logo: /assets/img/1603714518074.jpeg
 description: PhD student at Laboratoire Interdisciplinaire des Sciences du Numérique (LISN) - CNRS - Paris Saclay. Contact mathilde.aguiar@lisn.fr
     <li><a href="https://scholar.google.com/citations?hl=en&user=2QTB25sAAAAJ"><img src="assets/img/scholar.png" alt="Google Scholar"/></a></li>

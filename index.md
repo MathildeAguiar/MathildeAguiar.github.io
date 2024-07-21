@@ -8,7 +8,7 @@ layout: default
 I'm currently pursuing my PhD in Natural Language Processing in Paris Saclay University :woman_technologist:. My PhD topic is "**Natural Language Inference for clinical trials**". I'm currently finishing my first PhD year :woman_student:. This page showcases my past and ongoing work related to NLP.
 
 
-### Research interests :magnifying_glass_tilted_left:
+### Research interests
 
 * Biomedical/Clinical NLP :medical_symbol:
 * Biomedical applications :stethoscope:
