@@ -59,7 +59,7 @@ I'm currently finishing my PhD in Natural Language Processing (NLP) at Paris Sac
 
 # CV :page_facing_up:
 
-**Coming soon!**
+**See it [here](https://github.com/MathildeAguiar/MathildeAguiar.github.io/blob/main/assets/CV___updated_September_2026_website.pdf)**
 
 # Data, models and resources :gear:
 
