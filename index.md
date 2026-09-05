@@ -63,4 +63,6 @@ I'm currently finishing my PhD in Natural Language Processing (NLP) at Paris Sac
 
 # Data, models and resources :gear:
 
-**Coming soon!**
+* [[NLI4PR dataset]](huggingface.co/datasets/Mathilde/NLI4PR)
+* [[Finetuned models for NLI for clinical trials]](https://huggingface.co/CTInfer/models)
+* [[CTInfer resources]](https://huggingface.co/CTInfer)
