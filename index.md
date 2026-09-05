@@ -31,10 +31,25 @@ I'm currently finishing my PhD in Natural Language Processing (NLP) at Paris Sac
   Mathilde Aguiar, Pierre Zweigenbaum, Nona Naderi  
   LREC 2026
   [[pdf]](https://aclanthology.org/2026.lrec-1.413.pdf) [[bib]](https://aclanthology.org/2026.lrec-1.413.bib)
+  
+* Am I eligible? Natural Language Inference for Clinical Trial Patient Recruitment: the Patient's Point of View 
+  Mathilde Aguiar, Pierre Zweigenbaum, Nona Naderi  
+  CL4Health 2025 - NAACL 2025
+  [[pdf]](https://aclanthology.org/2025.cl4health-1.21.pdf) [[bib]](https://aclanthology.org/2025.cl4health-1.21.bib)
 
+* Constituting a dataset for applying Natural Language Inference to Chinese Clinical Trials: possible approaches and challenges
+  Mathilde Aguiar, Ying Lai, Pierre Zweigenbaum, Nona Naderi  
+  SemEval 2024
+  [[pdf]](https://hal.science/hal-04837721) [[bib]](https://hal.science/hal-04837721/bibtex)
+  
+* Récentes avancées de l’inférence en langue naturelle pour les essais cliniques
+  Mathilde Aguiar, Pierre Zweigenbaum, Nona Naderi  
+  Journée Santé & IA - PFIA 2024
+  [[pdf]](https://hal.science/hal-04667736v1/) [[bib]](https://hal.science/hal-04667736v1/bibtex)
+  
 * SEME at SemEval-2024 Task 2: Comparing Masked and Generative Language Models on Natural Language Inference for Clinical Trials
   Mathilde Aguiar, Pierre Zweigenbaum, Nona Naderi  
-  SemEval 2024
+  SemEval 2024 - NAACL 2024
   [[pdf]](https://aclanthology.org/2024.semeval-1.143.pdf) [[bib]](https://aclanthology.org/2024.semeval-1.143.bib)
 
 * Jargon: A Suite of Language Models and Evaluation Tasks for French Specialized Domains  
